@@ -1,0 +1,2 @@
+git init = initial a git repo
+git add = stages my changes
